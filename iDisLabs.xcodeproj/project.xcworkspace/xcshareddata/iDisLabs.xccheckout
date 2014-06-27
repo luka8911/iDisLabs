@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C414CB8-1AC9-419D-BF11-390D629E6A93</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iDisLabs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCBD0EA5-3053-4A35-B4C5-6CDF89CE040D</key>
+		<string>ssh://geekfuns.com/horse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/ios/iDisLabs/iDisLabs.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCBD0EA5-3053-4A35-B4C5-6CDF89CE040D</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://geekfuns.com/horse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCBD0EA5-3053-4A35-B4C5-6CDF89CE040D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCBD0EA5-3053-4A35-B4C5-6CDF89CE040D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>horse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
